@@ -187,7 +187,7 @@
     overflow: hidden;
     position: relative;
     padding-right: 20px;
-    font-size: 100px;
+    font-size: 60px;
     color: #fff;
     word-spacing: 10px;
     -o-text-overflow: clip;
@@ -237,7 +237,7 @@
 
 .fnc-slide__action-btn {
     position: relative;
-    margin-left: 200px;
+    margin-left: 20%;
     padding: 5px 15px;
     font-size: 20px;
     line-height: 1;
@@ -505,17 +505,17 @@ body {
 
 .example-slider .fnc-slide-1 .fnc-slide__inner,
 .example-slider .fnc-slide-1 .fnc-slide__mask-inner {
-    background-image: url('img/slide_1.jpg');
+    background-image: url('/img/slide_1.jpg');
 }
 
 .example-slider .fnc-slide-2 .fnc-slide__inner,
 .example-slider .fnc-slide-2 .fnc-slide__mask-inner {
-    background-image: url('img/slide_4.jpg');
+    background-image: url('/img/slide_4.jpg');
 }
 
 .example-slider .fnc-slide-3 .fnc-slide__inner,
 .example-slider .fnc-slide-3 .fnc-slide__mask-inner {
-    background-image: url('img/slide_3.jpg');
+    background-image: url('/img/slide_3.jpg');
 }
 
 .example-slider .fnc-slide-3 .fnc-slide__inner:before {
@@ -530,7 +530,7 @@ body {
 
 .example-slider .fnc-slide-4 .fnc-slide__inner,
 .example-slider .fnc-slide-4 .fnc-slide__mask-inner {
-    background-image: url('img/slide_2.jpg');
+    background-image: url('/img/slide_2.jpg');
 }
 
 .example-slider .fnc-slide-4 .fnc-slide__inner:before {
